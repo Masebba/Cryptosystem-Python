@@ -1,4 +1,4 @@
-# Cryptosystem
+# Cryptosystem - Python
 This is a simple Cryptosystem that:
 **Confidentiality:** Implementing a simple substitution cipher (Caesar cipher).
 **Integrity:** Using a basic hash function.
